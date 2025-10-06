@@ -1,6 +1,6 @@
 {
   "name": "ci-helper-bot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bot to help with CI/CD setup and management",
   "main": "index.js",
   "scripts": {
